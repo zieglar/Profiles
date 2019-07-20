@@ -90,6 +90,9 @@ DOMAIN-SUFFIX,pbs.org
 # > Pornhub
 DOMAIN-SUFFIX,phncdn.com
 DOMAIN-SUFFIX,pornhub.com
+# > Twitch
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn.net
 # > ViuTV
 USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.tv
