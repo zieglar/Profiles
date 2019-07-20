@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,pornhub.com,ForeignMedia
 # > Twitch
 DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
+DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
 # > ViuTV
 USER-AGENT,ViuTV*,ForeignMedia
 DOMAIN-SUFFIX,viu.tv,ForeignMedia

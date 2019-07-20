@@ -93,6 +93,7 @@ DOMAIN-SUFFIX,pornhub.com
 # > Twitch
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,ttvnw.net
 # > ViuTV
 USER-AGENT,ViuTV*
 DOMAIN-SUFFIX,viu.tv

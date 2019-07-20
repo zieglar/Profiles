@@ -482,6 +482,7 @@ Rule:
 # > Twitch
 - DOMAIN-SUFFIX,twitch.tv,ForeignMedia
 - DOMAIN-SUFFIX,twitchcdn.net,ForeignMedia
+- DOMAIN-SUFFIX,ttvnw.net,ForeignMedia
 # > ViuTV
 # USER-AGENT,ViuTV*,ForeignMedia
 - DOMAIN-SUFFIX,viu.tv,ForeignMedia
@@ -1041,7 +1042,6 @@ Rule:
 - DOMAIN-SUFFIX,sparknotes.com,PROXY
 - DOMAIN-SUFFIX,streetvoice.com,PROXY
 - DOMAIN-SUFFIX,supertop.co,PROXY
-- DOMAIN-SUFFIX,ttvnw.net,PROXY
 - DOMAIN-SUFFIX,tv.com,PROXY
 - DOMAIN-SUFFIX,typepad.com,PROXY
 - DOMAIN-SUFFIX,udnbkk.com,PROXY
