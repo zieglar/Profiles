@@ -107,13 +107,7 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 
 > 5.如何解锁 TikTok？
 
-（仅支持 Surge 和 Quantumult）规则中已带有相关复写规则，但是据反馈可能会导致抖音播放卡顿，如果仍需启用需在「HTTPS 解密(MitM)」的「主机名」列表中添加：
-
-```
-api*.tiktokv.com,*.musical.ly
-```
-
-*并且注意：Quantumult 用户需在「更多」里「高级」下的「模块」中选择「TUN + HTTP(Loopback)」*
+仅支持 Surge3 和 Quantumult 专业版规则，并且注意：Quantumult 用户需在「更多」里「高级」下的「模块」中选择「TUN + HTTP(Loopback)」。
 
 > 6.Apple News 具体怎么使用
 
@@ -158,7 +152,6 @@ api*.tiktokv.com,*.musical.ly
 - Kitsunebi 不支持 [URL Rewrite] 和 [MITM]
 - Quantumult 虽然支持 [URL Rewrite] 和 [MITM]，但需要在「更多 > 附加功能」中开启「激进阻止」以开启更全面的支持否则同 Surge 效果一样，另外 Quantumult 对于 IP 的 Server Name 不会进行 MitM，所以对于个别应用如瑞幸咖啡也无效。
 - Shadowrocket 的 [MITM] 功能不稳定影响正常功能，已从规则配置中移除，不再支持。
-
 - Surfboard 仅支持 [URL Rewrite] 且仅支持 302 没有阻止功能
 - Surge 虽然支持 [URL Rewrite] 和 [MITM]，但对于个别应用如优酷、腾讯视频（部分）的请求（TUN）无法处理。
 
@@ -188,7 +181,6 @@ api*.tiktokv.com,*.musical.ly
 
 - [lhie1](https://github.com/lhie1)
 - Lison Bin
-
 - [linjiacheng](https://github.com/linjiacheng)
 - Booui
 - liceva
