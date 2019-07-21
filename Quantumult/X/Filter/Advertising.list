@@ -1,4 +1,4 @@
-# Advertising Block
+# Advertising
 # > General
 DOMAIN-KEYWORD,adservice,REJECT
 DOMAIN-KEYWORD,analytics,REJECT
