@@ -1,14 +1,13 @@
-使用本方法就不需要导入传统的 [Pro](https://github.com/ConnersHua/Profiles/raw/master/Quantumult/X/Pro.conf)，在文本模式编辑在「[filter_remote]」内添加
+在「配置文件」选择「编辑」，在「[filter_remote]」内如下添加文本
 
 ```
-[filter_remote]
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Advertising.list, tag=去广告, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Hijacking.list, tag=反劫持, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/ForeignMedia.list, tag=国际流媒体, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/DomesticMedia.list, tag=国内流媒体, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=全球加速, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list, tag=Apple 服务, enabled=true
-https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list, tag=中国直连, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Advertising.list, tag=Advertising, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Hijacking.list, tag=Hijacking, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/ForeignMedia.list, tag=ForeignMedia, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/DomesticMedia.list, tag=DomesticMedia, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Global.list, tag=Global, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/Apple.list, tag=Apple, enabled=true
+https://raw.githubusercontent.com/ConnersHua/Profiles/master/Quantumult/X/Filter/China.list, tag=China, enabled=true
 ```
 
-另外 [Rewrite](https://github.com/ConnersHua/Profiles/raw/master/Quantumult/X/Rewrite.conf) 依然需要导入
+若不清楚可看图文教程：[Quantumult X 导入配置及安装证书](https://medium.com/circumvention-technology/import-profile-on-quantumult-x-6dca41b597d8)
