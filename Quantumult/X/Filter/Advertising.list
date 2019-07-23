@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,adsensor.org,REJECT
 DOMAIN-SUFFIX,adtarget.tech,REJECT
 DOMAIN-SUFFIX,adthor.com,REJECT
 DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
+DOMAIN-SUFFIX,analysys.cn,REJECT
 DOMAIN-SUFFIX,app-adforce.jp,REJECT
 DOMAIN-SUFFIX,appadhoc.com,REJECT
 DOMAIN-SUFFIX,appier.net,REJECT
@@ -41,13 +42,16 @@ DOMAIN-SUFFIX,mopub.com,REJECT
 DOMAIN-SUFFIX,onelink.me,REJECT
 DOMAIN-SUFFIX,qchannel01.cn,REJECT
 DOMAIN-SUFFIX,rayjump.com,REJECT
+DOMAIN-SUFFIX,rubiconproject.com,REJECT
 DOMAIN-SUFFIX,scorecardresearch.com,REJECT
 DOMAIN-SUFFIX,sdkclick.com,REJECT
+DOMAIN-SUFFIX,shuzilm.cn,REJECT
 DOMAIN-SUFFIX,smartadserver.com,REJECT
 DOMAIN-SUFFIX,smartnews-ads.com,REJECT
 DOMAIN-SUFFIX,tanv.com,REJECT
 DOMAIN-SUFFIX,tanx.com,REJECT
 DOMAIN-SUFFIX,uri6.com,REJECT
+DOMAIN-SUFFIX,voicefive.com,REJECT
 DOMAIN-SUFFIX,vungle.com,REJECT
 DOMAIN-SUFFIX,xdrig.com,REJECT
 
@@ -55,6 +59,7 @@ DOMAIN-SUFFIX,ad.daum.net,REJECT
 DOMAIN-SUFFIX,track.xiachufang.com,REJECT
 DOMAIN,abema-adx.ameba.jp,REJECT
 DOMAIN,ad.12306.cn,REJECT
+DOMAIN,ad.51wnl-cq.com,REJECT
 DOMAIN,ad.caiyunapp.com,REJECT
 DOMAIN,ad.huajiao.com,REJECT
 DOMAIN,ad.hzyoka.com,REJECT
@@ -62,7 +67,9 @@ DOMAIN,ad.jiemian.com,REJECT
 DOMAIN,ad.qingting.fm,REJECT
 DOMAIN,ad.wappalyzer.com,REJECT
 DOMAIN,ad-cn.jovcloud.com,REJECT
+DOMAIN,adextra.51wnl-cq.com,REJECT
 DOMAIN,ads.daydaycook.com.cn,REJECT
+DOMAIN,ads.weilitoutiao.net,REJECT
 DOMAIN,adsapi.manhuaren.com,REJECT
 DOMAIN,adsdk.dmzj.com,REJECT
 DOMAIN,adserver.pandora.com,REJECT
@@ -118,6 +125,8 @@ DOMAIN,applogapi.autohome.com.cn,REJECT
 # (B)
 # > Baidu
 DOMAIN-SUFFIX,baidustatic.com,REJECT
+DOMAIN-SUFFIX,cpro.baidu.com,REJECT
+DOMAIN-SUFFIX,pos.baidu.com,REJECT
 DOMAIN,afd.baidu.com,REJECT
 DOMAIN,als.baidu.com,REJECT
 DOMAIN,duclick.baidu.com,REJECT
@@ -126,7 +135,6 @@ DOMAIN,hmma.baidu.com,REJECT
 DOMAIN,mobads.baidu.com,REJECT
 DOMAIN,mobads-logs.baidu.com,REJECT
 DOMAIN,nsclick.baidu.com,REJECT
-DOMAIN,wn.pos.baidu.com,REJECT
 # > ByteDance
 DOMAIN,applog.musical.ly,REJECT
 DOMAIN,track.toutiao.com,REJECT
@@ -168,7 +176,6 @@ DOMAIN,v2.log.hunantv.com,REJECT
 # (I)
 # > iQiyi
 DOMAIN,ifacelog.iqiyi.com,REJECT
-DOMAIN,mbdlog.iqiyi.com,REJECT
 DOMAIN,msg.71.am,REJECT
 DOMAIN,msg.qy.net,REJECT
 DOMAIN,t7z.cupid.iqiyi.com,REJECT
