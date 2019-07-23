@@ -110,6 +110,8 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 
 仅支持 Surge3 和 Quantumult 专业版规则，并且注意：Quantumult 用户需在「更多」里「高级」下的「模块」中选择「TUN + HTTP(Loopback)」。
 
+另外，复写规则默认设置的 TikTok 为日本区，若想切换到其他地区，在软件里的复写设置中将「JP」修改成其他地区英文缩写即可。
+
 > 6.Apple News 具体怎么使用
 
 副作用为 macOS 及 iOS 12 以前的系统地图会变成海外 TOMTOM 版。
@@ -187,6 +189,8 @@ Android：[Kitsunebi](https://play.google.com/store/apps/details?id=fun.kitsuneb
 - liceva
 - [JO2EY](https://github.com/JO2EY) 
 - [Choler](https://github.com/Choler)
+- [xream](https://github.com/xream)
+- [gkeyes](https://github.com/gkeyes)
 
 ## 许可
 
