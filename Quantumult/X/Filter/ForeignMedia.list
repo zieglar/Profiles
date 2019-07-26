@@ -46,11 +46,18 @@ DOMAIN-SUFFIX,theplatform.com,ForeignMedia
 DOMAIN-SUFFIX,uplynk.com,ForeignMedia
 # > HBO Now & HBO GO
 USER-AGENT,HBO%20NOW*,ForeignMedia
+USER-AGENT,HBO%20GO*,ForeignMedia
+USER-AGENT,HBOAsia*,ForeignMedia
 DOMAIN-SUFFIX,hbo.com,ForeignMedia
 DOMAIN-SUFFIX,hbogo.com,ForeignMedia
 DOMAIN-SUFFIX,hboasia.com,ForeignMedia
 DOMAIN-SUFFIX,hbogo.com,ForeignMedia
 DOMAIN-SUFFIX,hbogoasia.hk,ForeignMedia
+DOMAIN,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,ForeignMedia
+DOMAIN,bcbolthboa-a.akamaihd.net,ForeignMedia
+DOMAIN,cf-images.ap-southeast-1.prod.boltdns.net,ForeignMedia
+DOMAIN,manifest.prod.boltdns.net,ForeignMedia
+DOMAIN,s3-ap-southeast-1.amazonaws.com,ForeignMedia
 # > Hulu
 DOMAIN-SUFFIX,hulu.com,ForeignMedia
 DOMAIN-SUFFIX,huluim.com,ForeignMedia
