@@ -6,20 +6,26 @@ DOMAIN-KEYWORD,analysis,REJECT
 
 DOMAIN-SUFFIX,42trck.com,REJECT
 DOMAIN-SUFFIX,51.la,REJECT
+DOMAIN-SUFFIX,adinfuse.com,REJECT
 DOMAIN-SUFFIX,adjust.com,REJECT
 DOMAIN-SUFFIX,adjust.io,REJECT
 DOMAIN-SUFFIX,admaster.com.cn,REJECT
+DOMAIN-SUFFIX,admob.com,REJECT
 DOMAIN-SUFFIX,adsensor.org,REJECT
 DOMAIN-SUFFIX,adtarget.tech,REJECT
 DOMAIN-SUFFIX,adthor.com,REJECT
+DOMAIN-SUFFIX,adwhirl.com,REJECT
 DOMAIN-SUFFIX,amazon-adsystem.com,REJECT
 DOMAIN-SUFFIX,analysys.cn,REJECT
 DOMAIN-SUFFIX,app-adforce.jp,REJECT
 DOMAIN-SUFFIX,appadhoc.com,REJECT
+DOMAIN-SUFFIX,appads.com,REJECT
 DOMAIN-SUFFIX,appier.net,REJECT
+DOMAIN-SUFFIX,applift.com,REJECT
 DOMAIN-SUFFIX,appsflyer.com,REJECT
 DOMAIN-SUFFIX,apsalar.com,REJECT
 DOMAIN-SUFFIX,apxadtracking.net,REJECT
+DOMAIN-SUFFIX,axonix.com,REJECT
 DOMAIN-SUFFIX,cloudmobi.net,REJECT
 DOMAIN-SUFFIX,cnzz.com,REJECT
 DOMAIN-SUFFIX,ctrmi.com,REJECT
@@ -33,11 +39,16 @@ DOMAIN-SUFFIX,inmobicdn.cn,REJECT
 DOMAIN-SUFFIX,irs01.com,REJECT
 DOMAIN-SUFFIX,iskyworker.com,REJECT
 DOMAIN-SUFFIX,kochava.com,REJECT
+DOMAIN-SUFFIX,leadboltmobile.net,REJECT
 DOMAIN-SUFFIX,lenzmx.com,REJECT
+DOMAIN-SUFFIX,liveadvert.com,REJECT
 DOMAIN-SUFFIX,lnk0.com,REJECT
 DOMAIN-SUFFIX,lnk8.cn,REJECT
+DOMAIN-SUFFIX,localytics.com,REJECT
 DOMAIN-SUFFIX,measurementapi.com,REJECT
+DOMAIN-SUFFIX,medialytics.com,REJECT
 DOMAIN-SUFFIX,miaozhen.com,REJECT
+DOMAIN-SUFFIX,mobclix.com,REJECT
 DOMAIN-SUFFIX,mopub.com,REJECT
 DOMAIN-SUFFIX,onelink.me,REJECT
 DOMAIN-SUFFIX,qchannel01.cn,REJECT
@@ -46,6 +57,7 @@ DOMAIN-SUFFIX,rubiconproject.com,REJECT
 DOMAIN-SUFFIX,scorecardresearch.com,REJECT
 DOMAIN-SUFFIX,sdkclick.com,REJECT
 DOMAIN-SUFFIX,shuzilm.cn,REJECT
+DOMAIN-SUFFIX,smaato.net,REJECT
 DOMAIN-SUFFIX,smartadserver.com,REJECT
 DOMAIN-SUFFIX,smartnews-ads.com,REJECT
 DOMAIN-SUFFIX,tanv.com,REJECT
@@ -68,6 +80,7 @@ DOMAIN,ad.qingting.fm,REJECT
 DOMAIN,ad.wappalyzer.com,REJECT
 DOMAIN,ad-cn.jovcloud.com,REJECT
 DOMAIN,adextra.51wnl-cq.com,REJECT
+DOMAIN,ads.adadapted.com,REJECT
 DOMAIN,ads.daydaycook.com.cn,REJECT
 DOMAIN,ads.weilitoutiao.net,REJECT
 DOMAIN,adsapi.manhuaren.com,REJECT
@@ -82,10 +95,12 @@ DOMAIN,app-ad.variflight.com,REJECT
 DOMAIN,applog.mobike.com,REJECT
 DOMAIN,appnext.hs.llnwd.net,REJECT
 DOMAIN,appnext-a.akamaihd.net,REJECT
+DOMAIN,data.flurry.com,REJECT
 DOMAIN,ggs.myzaker.com,REJECT
 DOMAIN,itad.linetv.tw,REJECT
 DOMAIN,ja.chushou.tv,REJECT
 DOMAIN,mads.suning.com,REJECT
+DOMAIN,mobileads.msn.com,REJECT
 DOMAIN,mopnativeadv.037201.com,REJECT
 DOMAIN,nativeadv.dftoutiao.com,REJECT
 DOMAIN,optimus-ads.amap.com,REJECT
@@ -204,7 +219,12 @@ DOMAIN,rich.kuwo.cn,REJECT
 # > Kingsoft
 DOMAIN,ad-stat.ksosoft.com,REJECT
 DOMAIN,img.auction-ads.wpscdn.cn,REJECT
+DOMAIN,counter.kingsoft.com,REJECT
+DOMAIN,counter.ksosoft.com,REJECT
 DOMAIN,minfo.wps.cn,REJECT
+DOMAIN,mobad.ijinshan.com,REJECT
+DOMAIN,ups.ksmobile.net,REJECT
+DOMAIN,ws.ksmobile.net,REJECT
 # (L)
 # > Le
 DOMAIN-SUFFIX,webp2p.letv.com,REJECT
@@ -214,13 +234,14 @@ DOMAIN,g3.letv.com,REJECT
 DOMAIN,n.mark.letv.com,REJECT
 # (M)
 # > MI
+DOMAIN-SUFFIX,ad.intl.xiaomi.com,REJECT
 DOMAIN-SUFFIX,ad.xiaomi.com,REJECT
 DOMAIN-SUFFIX,admob.xiaomi.com,REJECT
-DOMAIN-SUFFIX,ad.intl.xiaomi.com,REJECT
 DOMAIN-SUFFIX,tracking.miui.com,REJECT
-DOMAIN,adv.sec.miui.com,REJECT
 DOMAIN,adv.sec.intl.miui.com,REJECT
-DOMAIN,o2o.api.xiaomi.com,REJECT
+DOMAIN,adv.sec.miui.com,REJECT
+DOMAIN,data.mistat.xiaomi.com,REJECT
+DOMAIN,tracking.intl.miui.com,REJECT
 # > 墨迹天气
 DOMAIN,ad.api.moji.com,REJECT
 DOMAIN,adlaunch.moji.com,REJECT
@@ -255,6 +276,7 @@ DOMAIN,adnew.wifi8.com,REJECT
 DOMAIN,adfile.wifi8.com,REJECT
 # (S)
 # > Sina
+DOMAIN,adimg.vue.weibo.com,REJECT
 DOMAIN,u1.img.mobile.sina.cn,REJECT
 DOMAIN,sax.sina.com.cn,REJECT
 DOMAIN,saxs.sina.com.cn,REJECT
@@ -268,6 +290,7 @@ DOMAIN,track.sohu.com,REJECT
 DOMAIN,hui.sohu.com,REJECT
 # (T)
 # > Tencent
+DOMAIN-SUFFIX,bugly.qq.com,REJECT
 DOMAIN-SUFFIX,e.qq.com,REJECT
 DOMAIN-SUFFIX,gdt.qq.com,REJECT
 DOMAIN-SUFFIX,l.qq.com,REJECT
@@ -304,6 +327,13 @@ DOMAIN,ivy.pchouse.com.cn,REJECT
 DOMAIN,adtrack.ucweb.com,REJECT
 DOMAIN,applogios.uc.cn,REJECT
 DOMAIN,track.uc.cn,REJECT
+# > Umeng
+DOMAIN,alog.umeng.com,REJECT
+DOMAIN,alog.umengcloud.com,REJECT
+DOMAIN,ar.umeng.com,REJECT
+DOMAIN,plbslog.umeng.com,REJECT
+DOMAIN,ulogs.umeng.com,REJECT
+DOMAIN,ulogs.umengcloud.com,REJECT
 # (W)
 # > WiFi 万能钥匙
 DOMAIN,a.wkanx.com,REJECT
@@ -316,8 +346,8 @@ DOMAIN,adse.ximalaya.com,REJECT
 DOMAIN,adse.wsa.ximalaya.com,REJECT
 DOMAIN,adbehavior.wsa.ximalaya.com,REJECT
 # > 小红书
-DOMAIN,t-ads.xiaohongshu.com,REJECT
 DOMAIN,apm-track.xiaohongshu.com,REJECT
+DOMAIN,t-ads.xiaohongshu.com,REJECT
 # (Y)
 # > Youku
 DOMAIN-SUFFIX,atm.youku.com,REJECT
