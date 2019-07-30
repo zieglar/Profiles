@@ -369,6 +369,7 @@ URL-REGEX,^https?:\/\/.+\.58cdn\.com\.cn\/brandads\/
 
 # A
 # > Alibaba
+URL-REGEX,^https?:\/\/gw\.alicdn\.com\/tfs\/.+-\d{4}\.jpg
 # >> 闲鱼
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.taobao\.idle\.home\.welcome\/
 # >> 飞猪
@@ -378,6 +379,7 @@ URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.film\.mtopadvertiseapi\.que
 # >> 口碑
 URL-REGEX,^https?:\/\/render\.alipay\.com\/p\/s\/h5data\/prod\/spring-festival-2019-h5data\/popup-h5data\.json
 URL-REGEX,^https?:\/\/acs\.m\.taobao\.com\/gw\/mtop\.o2o\.ad\.gateway\.get\/
+URL-REGEX,^https?:\/\/guide-acs\.m\.taobao\.com\/gw\/mtop\.taobao\.wireless\.home\.splash\.awesome\.get\/
 # >> UC
 URL-REGEX,^https?:\/\/huichuan\.sm\.cn\/jsad
 URL-REGEX,^https?:\/\/iflow\.uczzd\.cn\/log\/
